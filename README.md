@@ -18,6 +18,8 @@ Mouse Macro Tool là ứng dụng giúp bạn ghi lại và tự động phát l
      ```bash
      Mở file ActionMouse.exe
      ```
+## Tính Năng
+   - Mô phỏng cử chỉ cơ bản : L/R click, Hold/Drag/Move Object
 
 ## Cách sử dụng
 1. **Ghi macro:**
