@@ -16,7 +16,7 @@ Mouse Macro Tool là ứng dụng giúp bạn ghi lại và tự động phát l
    - Tải tất cả các file về để chung trong 1 thư mục
    - Hành động:
      ```bash
-     Mở file MouseAction.exe
+     Mở file ActionMouse.exe
      ```
 
 ## Cách sử dụng
